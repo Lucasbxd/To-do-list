@@ -17,7 +17,7 @@
 
 <img src="./github/imagem.gif">
 
-<p align="center" dir="auto"><a taget="blank" href="" >Clique aqui para abrir o site</a><p> 
+<p align="center" dir="auto"><a taget="blank" href="https://lucasbxd-to-do-list.netlify.app" >Clique aqui para abrir o site</a><p> 
 
 <h2 id="sobre">📍 Sobre</h2>
 <p>A To-do list é uma lista com o foco em salvar informações do dia-a-dia para posteriormente concluirmos essas atividades, semelhante a uma "agenda". O foco principal do projeto é a aplicação dos conceitos de javascript relacionado ao uso de classes e manipulação do DOM.</p>
