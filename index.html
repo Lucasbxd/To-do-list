@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css" />
+    <title>To-do list</title>
+  </head>
+  <body>
+    <div class="container">
+      <section class="app">
+        <form onsubmit="app.newActivity()">
+          <h2>To-do list</h2>
+          <input type="text" id="add-activity" placeholder="Digite uma nova atividade e tecle Enter" required/>
+        </form>
+        <ul class="activities-list"></ul>
+      </section>
+    </div>
+    <script src="script/addactivity.js"></script>
+    <script src="script/app.js"></script>
+    <script src="script/main.js"></script>
+  </body>
+</html>
